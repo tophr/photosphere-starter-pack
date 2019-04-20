@@ -7,10 +7,10 @@ Templates for getting any image to work as a 360 photosphere or panorama on Face
 ## Usage
 The included templates already contain the required metadata, or the .xmp file can be used to inject the necessary photosphere metadata in Photoshop. 
 
-### Using a template
+### Using a Template
 The included JPG templates can be used as base layers to place your own content on top of. Just make sure to save your file as a .jpg and include the original metadata. Facebook provides its own [additional templates as well](https://www.dropbox.com/sh/70mwlh8k0y4rg0g/AACVNV7hvRZtjEKj4DoJMhCba?dl=0).
 
-### Inject XMP data
+### Injecting XMP Data
 1. Open the photo you wish to make into a photosphere in Photoshop. 6000 x 3000 pixel images work best.
 2. Go to File > File Info and select the "Raw Data" tab
 3. Click “Template” and choose “Import…”
@@ -18,7 +18,7 @@ The included JPG templates can be used as base layers to place your own content 
 
 The new metadata with the equirectangular tag should now be added.
 
-## Further reading
+## Further Reading
 To learn more, visit my blog:
 http://tophermcculloch.com/2016/06/make-photo-work-360-photosphere-facebook/
 
